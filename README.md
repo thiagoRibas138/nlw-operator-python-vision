@@ -19,4 +19,4 @@ Projeto desenvolvido durante o NLW Operator da Rocketseat. A aplicação utiliza
 3. Execute: `python main.py`
 
 ---
-Desenvolvido por Thiago - Estudante de Engenharia de Computação.
+Desenvolvido por Thiago - Estudante de Engenharia de Computação.# nlw-operator-python-vision
